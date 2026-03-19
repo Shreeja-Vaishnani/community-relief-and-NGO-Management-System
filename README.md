@@ -34,8 +34,3 @@ A full-stack web application to manage community relief operations — coordinat
 ### Prerequisites
 - Node.js
 - MySQL
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Shreeja-Vaishnani/community-relief-and-NGO-Management-System.git
-cd community-relief-and-NGO-Management-System
